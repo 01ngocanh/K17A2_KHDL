@@ -1,0 +1,10 @@
+x=10
+y=5
+tổng = x + y
+hiệu = x - y
+tích = x * y
+thương = x / y
+print('tổng của hai số:', x, '+', y, '=', tổng)
+print('hiệu của hai số:', x, '-', y, '=', hiệu)
+print('tích của hai số:', x, '*', y, '=', tích)
+print('thương của hai số:', x, '/', y, '=', thương)
